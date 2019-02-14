@@ -1,6 +1,7 @@
 # Name Of The Workshop
 
-Welcome to the ...workshop. This workshop will walk you through the process of... 
+Welcome to the creating API&Gateway on OCI workshop. This workshop will walk you through the process of creating the Gateway on APIPCS and deploy API to it. 
+
 To learn more about this workshop please watch the video below.
 
 ![](images/oraclecode/youtube.png)
