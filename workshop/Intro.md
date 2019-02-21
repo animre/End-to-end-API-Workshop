@@ -1,4 +1,4 @@
-# Name Of The Workshop
+# APIPC Workshop
 
 Welcome to the creating API&Gateway on OCI workshop. This workshop will walk you through the process of creating the Gateway on APIPCS and deploy API to it. 
 
