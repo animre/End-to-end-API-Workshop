@@ -34,4 +34,4 @@ To learn more about this workshop please watch the video below.
 
 Now, your API is able to use with your business need. You may also wanna setup some security policies to have some restrictions on the use of your API. No worries, please refer to Lab 400 (coming soon) and APIPC cover you by simply clicking!
 
-  ![](images/LabMenuIcon.png)
+  ![](images/CloudSolutionHubs.png)
