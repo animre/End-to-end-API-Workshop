@@ -2,7 +2,7 @@ Lab 100 - Designing the serviceTickets API with Apiary
 ================
 ## Introduction
 
-It's often hard to see how an API will be used until you have the chance to code against it. That's why we are using Apirary which allow you to design and modify your API simultaneously. You can learn more information of Apirary and sign up for a free developer account at http://apiary.io.
+It's often hard to see how an API will be used until you have the chance to code against it. That's why we are using Apirary in this workshop which allow you to design and modify your API in a real time manner. You can learn more information of Apirary and sign up for a free developer account at http://apiary.io.
 
 ## Objectives
 - Create an Apiary account and login
