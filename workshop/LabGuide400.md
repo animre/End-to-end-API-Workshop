@@ -1,7 +1,5 @@
-![](images/400/Picture-lab.png)  
-Updated: Date
 
-## Introduction
+## Security Policy on API
 
 Introductory Text
 
