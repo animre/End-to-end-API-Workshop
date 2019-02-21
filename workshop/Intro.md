@@ -20,8 +20,16 @@ To learn more about this workshop please watch the video below.
 
 
 
-### **Step 2**: Navigate to Lab 100
+### **Step 2**: Navigate to Lab 100: import your data on Apirary
 
 - _You can see a list of Lab Guides_ by clicking on the **Menu Icon** in the upper left corner of the browser window. You're now ready to continue with **Lab 100**.
 
   ![](images/LabMenuIcon.png)
+  
+### **Step 3**: Navigate to Lab 200: create Gateway by using OCI instance and API Platform Cloud
+- _The step by step installation instructions are found here, and you can follow them to install your gateway on Linux. After you finish this lab, your gateway is created and ready to use.
+
+### **Step 4**: Navigate to Lab 300: create and configure the API and deploy it to gateway
+- _This is the last step before your API is ready to use. In Lab 300, you will be able to create a API on APIPC, configure it with Apirary from Lab 100, and deploy it to the gateway you created in Lab 200. 
+
+Now, your API is able to use with your business need. You may also wanna setup some security policies to have some restrictions on the use of your API. No worries, please refer to Lab 400 (coming soon) and APIPC cover you by simply clicking!
