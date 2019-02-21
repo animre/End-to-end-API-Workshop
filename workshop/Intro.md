@@ -1,3 +1,6 @@
+
+  ![](images/CloudSolutionHubs.png)
+
 # APIPC Workshop
 
 Welcome to the creating API&Gateway on OCI workshop. This workshop will walk you through the process of creating the Gateway on APIPCS and deploy API to it. 
@@ -34,4 +37,4 @@ To learn more about this workshop please watch the video below.
 
 Now, your API is able to use with your business need. You may also wanna setup some security policies to have some restrictions on the use of your API. No worries, please refer to Lab 400 (coming soon) and APIPC cover you by simply clicking!
 
-  ![](images/CloudSolutionHubs.png)
+
