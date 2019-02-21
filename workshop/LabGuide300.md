@@ -2,7 +2,7 @@ Lab 300 - Configure API and Deployto Gateway
 ================
 ## Introduction
 
-Stay on the API Platform Cloud,the next step is to create API and deploy the gateway to the API. After you installed the gateway by using OCI Compute Instance, now you can create APIs and configure the Request & Response on APIPC. Then, you will deploy APIs to that gateway you created from Lab 200.  
+Stay on the API Platform Cloud,the next step is to create API and deploy the gateway to the API. After you installed the gateway by using OCI Compute Instance, now you can create APIs and configure the service request on API. Then, you will deploy APIs to that gateway you created from Lab 200.  
 
 
 ### **Step 1:** Choose **APIs** on the API Platform Cloud, and click on **Create** on the top right
