@@ -1,11 +1,8 @@
-Lab 300 - Deploying ticketService API to Gateway
+Lab 300 - Deploying APIs to Gateway and Configure the API
 ================
 ## Introduction
 
-You need to have an account on Apiary. You can sign up for a free
-developer account at http://apiary.io .
-
-Use your Oracle email for setting up the account.
+After you installed the gateway by using OCI Compute Instance, now you can create APIs and deploy them to the gateway from Lab200. Then, you will configure the API by inputting the 
 
 ## Objectives
 - Create an Apiary account and login
