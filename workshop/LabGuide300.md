@@ -2,22 +2,17 @@ Lab 300 - Configure API and Deployto Gateway
 ================
 ## Introduction
 
-After you installed the gateway by using OCI Compute Instance, now you can create APIs and configure the Request & Response on APIPC. Then, you will deploy APIs to that gateway you created from Lab 200.  
-
-
-Deploy ticketService to newly created API Gateway
-================
-**Stay on the API Platform Cloud,the next step is to create API and deploy the gateway to the API.**
+Stay on the API Platform Cloud,the next step is to create API and deploy the gateway to the API. After you installed the gateway by using OCI Compute Instance, now you can create APIs and configure the Request & Response on APIPC. Then, you will deploy APIs to that gateway you created from Lab 200.  
 
 
 ### **Step 1:** Choose **APIs** on the API Platform Cloud, and click on **Create** on the top right
-	![](images/300/apipc.png)
+![](images/300/apipc.png)
 
 ### **Step 2:** the creating API page will open and fill out the form
-	![](images/300/createapi.png)
+![](images/300/createapi.png)
 
 ### **Step 3:** Your new API is created now, and click on it
-	![](images/300/openapi.png)
+![](images/300/openapi.png)
 
 ### **Step 4:** Configure the API Request:
 1. Click on API Implementation, and edit API Request
@@ -56,7 +51,7 @@ Deploy ticketService to newly created API Gateway
 	- Method: GET
 	- Headers: (optional)
 	- Accept: application/json
-	![](images/300/postman.png)
+![](images/300/postman.png)
 
 **Now you should be able to receive your mock data!**
 
