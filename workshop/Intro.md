@@ -13,11 +13,8 @@ To learn more about this workshop please watch the video below.
 - Bookmark this page for future reference.
 
 - Please click on the following link to create your <a class="trial-link" href="link.to.the.trial.signup.page" target="_trial">Free Account</a>, and complete all the required steps to get your free Oracle Cloud Trial Account. When you complete the registration process you'll receive a $300 credit that will enable you to complete the lab for free.  Additionally, you'll have 1000s of hours left over to continue to explore the Oracle Cloud.
-
-  - Soon after requesting your trial you will receive the following email. _You may begin working on Lab 100 before you receive this email_, but you will not be able to start Lab 200 until you have received it.
-
   ![](images/oraclecode/code_9.png)
-
+> NOTE: Soon after requesting your trial you will receive the following email. _You may begin working on Lab 100 before you receive this email_, but you will not be able to start Lab 200 until you have received it.
 
 
 ### **Step 2**: Navigate to Lab 100: import your data on Apirary
@@ -27,9 +24,9 @@ To learn more about this workshop please watch the video below.
   ![](images/LabMenuIcon.png)
   
 ### **Step 3**: Navigate to Lab 200: create Gateway by using OCI instance and API Platform Cloud
-- _The step by step installation instructions are found here, and you can follow them to install your gateway on Linux. After you finish this lab, your gateway is created and ready to use.
+- The step by step installation instructions are found here, and you can follow them to install your gateway on Linux. After you finish this lab, your gateway is created and ready to use.
 
 ### **Step 4**: Navigate to Lab 300: create and configure the API and deploy it to gateway
-- _This is the last step before your API is ready to use. In Lab 300, you will be able to create a API on APIPC, configure it with Apirary from Lab 100, and deploy it to the gateway you created in Lab 200. 
+- This is the last step before your API is ready to use. In Lab 300, you will be able to create a API on APIPC, configure it with Apirary from Lab 100, and deploy it to the gateway you created in Lab 200. 
 
 Now, your API is able to use with your business need. You may also wanna setup some security policies to have some restrictions on the use of your API. No worries, please refer to Lab 400 (coming soon) and APIPC cover you by simply clicking!
