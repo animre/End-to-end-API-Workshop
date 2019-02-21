@@ -1,12 +1,9 @@
-Lab 300 - Deploying APIs to Gateway and Configure the API
+Lab 300 - Configure API and Deployto Gateway 
 ================
 ## Introduction
 
-After you installed the gateway by using OCI Compute Instance, now you can create APIs and deploy them to the gateway from Lab200. Then, you will configure the API by inputting the 
+After you installed the gateway by using OCI Compute Instance, now you can create APIs and configure the Request & Response on APIPC. Then, you will deploy APIs to that gateway you created from Lab 200.  
 
-## Objectives
-- Create an Apiary account and login
-- Create the API Design
 
 Deploy ticketService to newly created API Gateway
 ================
