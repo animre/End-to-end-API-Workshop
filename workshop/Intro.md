@@ -17,7 +17,7 @@ To learn more about this workshop please watch the video below.
 
 - Please click on the following link to create your <a class="trial-link" href="link.to.the.trial.signup.page" target="_trial">Free Account</a>, https://cloud.oracle.com/tryit 
 
-<a class="https://cloud.oracle.com/tryit" href="link.to.the.trial.signup.page" target="_trial">Free Account</a>
+<a class="https://cloud.oracle.com/tryit" href="link.to.the.https://cloud.oracle.com/tryit" target="_trial">Free Account</a>
 
 and complete all the required steps to get your free Oracle Cloud Trial Account. When you complete the registration process you'll receive a $300 credit that will enable you to complete the lab for free.  Additionally, you'll have 1000s of hours left over to continue to explore the Oracle Cloud.
   ![](images/oraclecode/code_9.png)
