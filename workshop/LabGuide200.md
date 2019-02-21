@@ -291,5 +291,4 @@ Create Linux VM and Configure and Deploy API Gateway
 
 **Now, the whole installation process should complete successfully! You can continue to next workshop.**
 
-Summary
 =======================
