@@ -2,10 +2,7 @@ Lab 100 - Designing the serviceTickets API with Apiary
 ================
 ## Introduction
 
-You need to have an account on Apiary. You can sign up for a free
-developer account at http://apiary.io .
-
-Use your Oracle email for setting up the account.
+It's often hard to see how an API will be used until you have the chance to code against it. That's why we are using Apirary which allow you to design and modify your API simultaneously. You can learn more information of Apirary and sign up for a free developer account at http://apiary.io.
 
 ## Objectives
 - Create an Apiary account and login
@@ -27,8 +24,6 @@ Get Started with Apiary and create an API Design
 
 
 ### **Step 2**: Create the API Design
-
-
 
   ![](images/100/image001.png)
 
