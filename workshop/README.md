@@ -9,7 +9,7 @@ To learn more about this workshop please watch the video below.
 
 ![](images/oraclecode/youtube.png)
 
-<a href="https://youtu.be/" target="_video">Workshop Overview</a>
+<a href="https://youtu.be/" target="_video">Workshop Overview<InProgress>?</a>
 
 ### **Step 1**: Acquire an Oracle Cloud Trial or Workshop Account
 
