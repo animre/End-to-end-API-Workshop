@@ -47,7 +47,7 @@ Create Linux VM and Configure and Deploy API Gateway
     ![](images/200/createinstance3.png)
 
   **NOTE** Your Oracle Linux is now ready for the Gateway installation. Click on the newly created instance and note down the primary information, such as Private and Public IP Address.
-  ![](images/200/.png)
+  ![](images/200/ips.png)
 
 
 ### STEP 2: Create a Console Connection for Mac User
