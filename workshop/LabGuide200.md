@@ -226,8 +226,8 @@ Create Linux VM and Configure and Deploy API Gateway
     **$ ssh -i oci_instance opc@[your public IP address from Step 2]**
 
 4. Additionally, run the following command to open the firewall of your instance:
-    **$ iptables -I INPUT 1 -p tcp --dport 8011 -j ACCEPT**
-    **$ iptables -I INPUT 1 -p tcp --dport 9022 -j ACCEPT**
+    - **$ iptables -I INPUT 1 -p tcp --dport 8011 -j ACCEPT**
+    - **$ iptables -I INPUT 1 -p tcp --dport 9022 -j ACCEPT**
 
 
 5. If not already done, install Oracle certified JDK 1.8+ and set JAVA_HOME.
