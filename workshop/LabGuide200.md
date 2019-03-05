@@ -35,7 +35,7 @@ Create Linux VM and Configure and Deploy API Gateway
   ![](images/200/compartment.png)
 
 4. Click on **Create an Instance**
-  ![](workshop/images/200/createinstance.png)
+  ![](images/200/createinstance.png)
 
 5. Enter the following values in the Create Instance dialog
     (1)	**Name**: XX_OL610 (Replace XX with your initials)
