@@ -27,7 +27,9 @@ Create Linux VM and Configure and Deploy API Gateway
 ### STEP 1: Provision Iaas VM
 1.  Log in to the cloud account which you just created
 ![](./images/200/signin.png)
-
+ 
+ **change pics here **
+> Your landing page may look different
 2. Click on thd **MENU** on the left top and click on **Compute**
   ![](images/200/compute.png)
 
