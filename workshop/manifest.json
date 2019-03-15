@@ -40,6 +40,20 @@
                 "description": "Short description of lab 400"
 
             }
+             {
+                "number": "500",
+                "filename": "LabGuide500.md",
+                "title": "Lab 500: Title of Lab 500",
+                "description": "Short description of lab 500"
+
+            }
+             {
+                "number": "600",
+                "filename": "LabGuide600.md",
+                "title": "Lab 600: Title of Lab 600",
+                "description": "Short description of lab 600"
+
+            }
 
 
         ]
