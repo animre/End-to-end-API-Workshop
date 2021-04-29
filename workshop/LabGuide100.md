@@ -34,9 +34,8 @@ Get Started with Apiary and create an API Design
   2. Your API will be pre-populated from a sample template which you can begin modifying to meet the requirements of a serviceTicket
 
     -   Update the collection from "questions" to "serviceTickets"
-
-    -   Update the description to a meaningful explanation of service
-        tickets
+    -   Update the description to a meaningful explanation of service tickets
+    -   Update the name of the GET method from “List All Questions” to “List All Tickets”
 
     > You will see that on the left side, you have the API Blueprint and on
     > the right side, you have an easy to read documentation of your API.
@@ -46,22 +45,16 @@ Get Started with Apiary and create an API Design
 
   ![](images/100/image005.png)
 
-  3. Now, from the resources folder/site for the [API Github](<https://github.com/oracle/learning-library/tree/master/workshops/api-platform/tutorials/design/design_api>) and pull the ticketService.apib file in your favorite text editor.
-  You can select all of the text and simply replace the text in your **Polls API** sample.
-
-  ![](images/100/image007.png)
-
-  4. Now, you can test the API blueprint by selecting one of the resources in your documentation
+  
+  4. Now, you can test the API blueprint by selecting one of the resources in your documentation. 
 
   ![](images/100/image009.jpg)
 
-  5. Clicking on the link, will bring up the test example. Here, make sure you have selected the **Mock Server** and you can choose any language for an example **Raw**. Notice the example includes the URL and method as well as any parameters that are required.
-
-  Additionally, there is a code-sample of how you would call the service in the language of your choice.
+  5. Clicking on the resource, will bring up the test example. Here, make sure you have selected the **Mock Server** and you can choose any language for an example **Raw**. Notice the example includes the URL and method. Additionally, there is a code-sample of how you would call the service in the language of your choice. 
 
   ![](images/100/image011.png)
 
-  6. Click Save and then click the Try button.
+  6. Once you click on the **Try** button, a section for the required parameters will appear.
 
   ![](images/100/image013.png)
 
