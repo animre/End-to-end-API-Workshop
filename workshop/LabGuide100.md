@@ -46,7 +46,7 @@ Get Started with Apiary and create an API Design
   ![](images/100/image005.png)
 
   
-  4. Now, you can test the API blueprint by selecting one of the resources in your documentation. 
+  4. After you saved the changes from the top right corner, you can test the API blueprint by selecting one of the resources in your documentation. 
 
   ![](images/100/image009.jpg)
 
